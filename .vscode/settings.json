@@ -1,0 +1,10 @@
+{
+  "files.insertFinalNewline": true,
+  "cSpell.words": [
+    "appcontext",
+    "jsonify",
+    "planb",
+    "psycopg",
+    "Werkzeug"
+  ]
+}
